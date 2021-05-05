@@ -39,3 +39,6 @@ input {
 	padding-bottom: 25px;
 	background: linear-gradient(#60ebeb 0%, #27ae60 100%);
 }
+#marqueeStyle {
+	background-color: greenyellow; 
+}
